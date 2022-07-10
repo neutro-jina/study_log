@@ -2,4 +2,5 @@
 
 
 ## 모두의 딥러닝
-## ![모두의 딥러닝](./모두의딥러닝 이미지.jpg)
+
+<img width="80%" src="https://user-images.githubusercontent.com/103036825/178142987-94146f90-dc3d-4059-9c9e-11f7d585621f.jpg"/>

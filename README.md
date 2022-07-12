@@ -10,3 +10,5 @@
 
 <img width="20%" src="https://user-images.githubusercontent.com/103036825/178415582-43fc12d4-e371-404d-8a37-08b1da0eaf25.jpg"/>
 
+# 3. 딥러닝 텐서플로 교과서
+<img width="20%" src="https://user-images.githubusercontent.com/103036825/178447744-6257dc02-9a3a-4980-bc75-9899d275b554.jpg"/>

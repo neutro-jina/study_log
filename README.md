@@ -5,6 +5,10 @@
 
 <img width="20%" src="https://user-images.githubusercontent.com/103036825/178142987-94146f90-dc3d-4059-9c9e-11f7d585621f.jpg"/>
 
+# 2. 머신러닝을 위한 파이썬 한 조각
+
+<img width="20%" src="https://user-images.githubusercontent.com/103036825/178142987-94146f90-dc3d-4059-9c9e-11f7d585621f.jpg"/>
+
 
 # 2. cs231n
 
